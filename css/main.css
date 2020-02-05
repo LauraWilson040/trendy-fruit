@@ -19,14 +19,17 @@ html {
 
 .watermelon {
   font-family: 'Rammetto One', cursive;
+  background-color: #e97065;
 }
 
 .starfruit {
   font-family: 'Gravitas One', cursive;
+  background-color: #fbd25e;
 }
 
 .persimmon {
   font-family: Comfortaa, cursive;
+  background-color: #e86033;
 }
 
 p {
