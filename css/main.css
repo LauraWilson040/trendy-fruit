@@ -17,13 +17,17 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 .watermelon {
-  font-family: 'Rammetto One', cursive;
+  font-family: "Rammetto One", cursive;
   background-color: #e97065;
 }
 
 .starfruit {
-  font-family: 'Gravitas One', cursive;
+  font-family: "Gravitas One", cursive;
   background-color: #fbd25e;
 }
 
@@ -33,5 +37,5 @@ html {
 }
 
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
